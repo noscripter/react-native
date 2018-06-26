@@ -45,7 +45,7 @@
     "absolute-path": "0.0.0",
     "bluebird": "^2.9.21",
     "chalk": "^1.0.0",
-    "connect": "2.8.3",
+    "connect": "2.14.0",
     "debug": "~2.1.0",
     "joi": "~5.1.0",
     "jstransform": "10.1.0",
